@@ -4278,7 +4278,8 @@
         "detect_code": [
             "0765"
         ],
-        "device_name": "STM32L476RGTx"
+        "device_name": "STM32L476RGTx",
+        "device_has_add": ["USBDEVICE"]
     },
     "DISCO_L476VG": {
         "inherits": [
